@@ -1,0 +1,28 @@
+Identifying Hot Topic Trends in Streaming Text Data Using Sequential Evolution Model Based on Distributed
+Representations
+
+
+Distributed Representations,Sequential Evolution Model,Text Analysis,Word2Vec,
+Topic Trends,Knowledge graph.
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:07.September.2023
+
+
+Identifying_Hot_Topic_Trends
+
+
+identifying_hot_topic_trends
+
+
+predict_hot_topic
+
+
+Sno	
+PDate	
+Headline	
+Description	
+Source
+Prediction
+
+
