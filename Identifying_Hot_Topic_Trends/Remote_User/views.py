@@ -124,7 +124,7 @@ def Predict_Identifying_Hot_Topic_Trends(request):
         X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.20)
         X_train.shape, X_test.shape, y_train.shape
 
-        print("Random Forest classifier")
+        print("Random Forest classifier ")
 
         #Random forest classifier
 
